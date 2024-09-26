@@ -5,6 +5,6 @@ Learning how to build my website Chapter 4 of GitHub for Dummies. Just assigned 
 
 Now committing this to a new branch.
 
-- [] Add a short bio
-- [] Add social media links?
-- [] Get throught this book
+- [ ] Add a short bio
+- [ ] Add social media links?
+- [ ] Get throught this book
